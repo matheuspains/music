@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gerador de Gênero Musical Aleatório
 
 Este script Python é um simples gerador de gênero musical aleatório com uma interface gráfica básica. Quando o botão é pressionado, ele escolhe aleatoriamente um gênero da lista e exibe o resultado em uma interface gráfica, ao mesmo tempo em que mostra uma caixa de diálogo com o gênero escolhido.
@@ -41,3 +42,6 @@ Matheus Pains
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+=======
+# music
+>>>>>>> origin/main
